@@ -1,4 +1,5 @@
-The ``100-matrix_mul`` module
+Thve ``100-matrix_mul`` module
+
 ======================
 
 Using ``matrix_mul``
@@ -104,3 +105,4 @@ Checking for mismatching matrices:
 	 Traceback (most recent call last):
 	 ...
 	 ValueError: m_a and m_b can't be multiplied
+
